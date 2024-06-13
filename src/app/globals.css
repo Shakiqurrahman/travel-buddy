@@ -22,7 +22,7 @@
         @apply bg-[#30af5b] px-8 py-4 text-white transition-all hover:bg-black;
     }
     .btn_black {
-        @apply bg-black px-8 py-3 rounded-[30px] text-white transition-all hover:bg-black font-bold;
+        @apply bg-black px-8 py-4 rounded-[30px] text-white transition-all hover:bg-black font-bold;
     }
     .btn_dark_green_outline {
         @apply border-gray-20 bg-green-90 px-8 py-5 text-white;
