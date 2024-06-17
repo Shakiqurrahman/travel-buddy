@@ -19,7 +19,7 @@
         @apply border-green-50 bg-green-50 px-8 py-5 text-white;
     }
     .btn_dark_green {
-        @apply bg-[#30af5b] px-8 py-4 text-white transition-all hover:bg-black;
+        @apply bg-[#30af5b] px-8 py-4 text-white rounded-[30px] transition-all hover:bg-black font-semibold;
     }
     .btn_black {
         @apply bg-black px-8 py-4 rounded-[30px] text-white transition-all hover:bg-black font-bold;
